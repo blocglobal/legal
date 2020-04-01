@@ -373,33 +373,3 @@ Musical Composition Title:_____________________________________________________
 
 
 Artist’s  full Name:_____________________________________________________________
-
-
-
-
-[a]So, the local band that I'm working to release had some questions regarding this section (3). I agree that we could do something to clean this up. The whole "work made for hire" language lends itself to something like recordings made by session musicians. Can we do something with this to clarify its meaning and get rid of "work made for hire"?
-[b]This is a place where Creative Commons could make things difficult for us:
-
-
-“a person holding a non-exclusive license is not entitled to complain about any alleged infringement of the copyright.”  HyperQuest, Inc. v. N’Site Sols., Inc., 632 F.3d 377, 382 (7th Cir. 2011)
-
-
-And merely sprinkling the “exclusive license” lingo within a licensing or assignment agreement doesn’t suffice. See HyperQuest, Inc. v. N’Site Sols., Inc. 632 F.3d 377 (7th Cir. 2011).  Thus, an exclusive right must be exclusive. An assignment is not exclusive if some form of right to limited use and distribution to other third parties is reserved.
-
-
-We have to be *owners* if we are going to enforce. Otherwise, it falls on the author to enforce. 
-
-
-Giving the artists the ability to sell their own work and us not take a cut starts to look like it isn't really an assignment.
-
-
-That said, we do put restrictions on their ability to sell, saying that they need to link to our version. That might be enough, assuming we A) enforce it and B) is very clear in the contract.
-[c]there was an old comment here, but I wanted a new one so people didn't get lost in the weeds of the old one. At some point, we just need to make sure we use all the defined words. This particular one we do use.
-[d]"Work made for hire" again.
-[e]+mike@blocsonic.com are the local guys you are working with looking at the contract digitally? Generally, I would think the embedded link would be fine. I think saying something about the link would make it clunky, but just something I thought about. More of a UI thing than a legal thing
-[f]Yeah, they're looking at a PDF. They had no issues with section 4
-[g]I'm going to leave this comment so in the future I don't have the same thought about the UI. I wish there was a way to resolve and leave...
-[h]+mike@blocsonic.com I don't think we need to say anything else if we are just talking about cover art and such. It may make sense to have an artist sign the merchandise agreement if we are going to be selling merch that just uses the artist logo, but so far we aren't doing that.
-[i]if we need to have the first artists sign a contract without a definitions section, then I think that is fine. The first ones would be people we already know, which means less likely to have problems.
-[j]Ok
-[k]I think we should just keep the mix for now. I changed the heading title. I don't think there is time to clean it up.
