@@ -1,4 +1,3 @@
-# legal
-Not all legal docs, but might be useful. Wish there were more license options...
+These documents are provided to help other labels feel comfortable releasing under a Creative Commons license.
 
-Pull requests welcome
+Pull requests welcome.
