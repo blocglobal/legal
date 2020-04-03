@@ -283,7 +283,7 @@ To the extent there is a trademark issue, Company is unable to provide legal ser
 This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. 
 
 
-30. Additional Definitions[i][j][k] 
+30. Additional Definitions
 To the extent definitions in the document conflict with Section 30, Section 30 is controlling.
 Commercial Release: Music that will be for pay download.
 Company: blocGLOBAL, LLC
