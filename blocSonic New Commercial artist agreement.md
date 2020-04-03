@@ -5,7 +5,9 @@ known collectively as and/or performing under the name _________________________
 
 1. Purpose and Term
 The Company engages Artist’s exclusive services as a recording Artist to perform in connection with the production of sound recordings/songs under this Agreement. Company wants to license rights to one of the following (place a X in the appropriate box):
+
 [ ] One (1) Full Length or 
+
 [ ] Other: __________________________ sound recording.
 
 
