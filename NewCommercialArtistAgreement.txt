@@ -1,4 +1,4 @@
-﻿This agreement (the Agreement), made the date of the last signature between blocGLOBAL (Company) and _____________________________,
+This agreement (the Agreement), made the date of the last signature between blocGLOBAL (Company) and _____________________________,
 known collectively as and/or performing under the name _______________________________
 (referred to as Artist). All references to Artist include all members of the act collectively and individually, unless otherwise specified.
 
@@ -32,7 +32,7 @@ While there is no charge or recoupment for mastering, having Company master soun
 
 
 3. Grant of Rights - General
-Company will be the exclusive licensee of all rights to the Master Recordings delivered by Artist to Company prior to entry into this Agreement and each Master made pursuant this Agreement or during its term, from the inception of its recording, will be considered a “work made for hire” for Label; if, for any reason, any such Master fails to qualify in any jurisdiction as a work made for hire, then all right, title, and interest in and to the copyright to any such Master shall be deemed transferred, on an exclusive basis, in perpetuity, to Label by this Agreement.[a][b] All Master Recordings will last for a term of _________ years from the date of receipt of each Master Recording (the “Ownership Period”). After the Ownership Period, all rights granted under this Agreement will revert to Artist if applicable. Under this Agreement, a “Controlled Composition” [c]is defined as a Musical Composition written, in whole or in part, by Artist, or a Musical Composition either owned or controlled by Artist.
+Company will be the exclusive licensee of all rights to the Master Recordings delivered by Artist to Company prior to entry into this Agreement and each Master made pursuant this Agreement or during its term, from the inception of its recording, will be considered a “work made for hire” for Label; if, for any reason, any such Master fails to qualify in any jurisdiction as a work made for hire, then all right, title, and interest in and to the copyright to any such Master shall be deemed transferred, on an exclusive basis, in perpetuity, to Label by this Agreement. All Master Recordings will last for a term of _________ years from the date of receipt of each Master Recording (the “Ownership Period”). After the Ownership Period, all rights granted under this Agreement will revert to Artist if applicable. Under this Agreement, a “Controlled Composition” [c]is defined as a Musical Composition written, in whole or in part, by Artist, or a Musical Composition either owned or controlled by Artist
 
 
 Company engages Artist’s exclusive personal services only in regard to the production of Records under this Agreement. Artist grants to Company the following rights to the Master Recording, Musical Compositions, and Controlled Compositions:
@@ -78,14 +78,16 @@ Company engages Artist’s exclusive personal services only in regard to the pro
 See Section 27 for additional information relating to Creative Commons.
 
 
-After the transfer of rights to Company, Company agrees to release all music under some Creative Commons licence.  The standard license will be Creative Commons Attribution Non-Commerical Share-Alike (CC BY-NC-SA) 4.0. The text of this Creative Commons license is available at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode . If desired, Artist can choose a different Creative Commons license. However, Commercial Releases cannot be CC BY or CC0.
+After the transfer of rights to Company, Company will, as exclusive licensee, release all music under a Creative Commons licence.  The standard license will be Creative Commons Attribution Non-Commerical Share-Alike (CC BY-NC-SA) 4.0. The text of this Creative Commons license is available at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode . If desired, Artist can choose the Creative Commons Attribution ShareAlike (CC BY-SA) 4.0 license.
 
 
-By agreeing to release under Creative Commons, you also agree that you are not a member of a Performance Rights Organization (PRO) that does not allow Creative Commons. It is the Artist’s responsibility to know the rules of their PRO, if they are a member of a PRO.
+To facilitate releasing under Creative Commons, Artist agrees that they are not a member of a Performance Rights Organization (PRO) that does not allow Creative Commons. It is the Artist’s responsibility to know the rules of their PRO, if they are a member of a PRO.
 
 
-Additionally, the following statement accompanies all releases on blocSonic.com, under the license:
-“If the above license doesn’t already do so, we explicitly authorize the use of this release during for-profit DJ performances, radio broadcasts and in online DJ mixes. We do ask that you notify us of your use for our own curiosity and that blocSonic and the album artist are attributed and linked to where possible.”[e][f][g]
+In additional to the Creative Commons license above, the following statement accompanies all releases on blocsonic.com, under the license:
+“If the above license doesn’t already do so, we explicitly authorize the use of this release during for-profit DJ performances, radio broadcasts and in online DJ mixes. We do ask that you notify us of your use for our own curiosity and that blocSonic and the album artist are attributed and linked to where possible.”
+
+As exclusive licensee, Company may submit Record to electronic platforms that do not carry Creative Commons licensing information.
 
 
 5. Territory
@@ -96,7 +98,7 @@ All rights granted to Company under this Agreement are ___________________ (the 
 Company has the right to reproduce or distribute, in any medium, Artist’s name(s), portraits, pictures, and likeness for purposes of advertising, promotion, or trade in connection with Artist or the exploitation of the Records. 
 
 
-This includes the right to make merchandise related to the recording listed in Section 1. [h]
+This includes the right to make merchandise related to the recording listed in Section 1.
 
 
 7. Miscellaneous Duties of Artist
@@ -115,7 +117,7 @@ Company will furnish to Artist at least one promotional Record at no charge (wit
 9. Royalties
 Royalties here refer sound recording, songwriting, publishing, and video royalties. The artist will receive 50% of gross, except:
 (a) as noted for expenses in section 10,
-        (b) as noted in sections 9(A) and 9(B)
+(b) as noted in sections 9(A) and 9(B)
 
 
 9(A) Compilations:
@@ -273,7 +275,7 @@ Regardless of selected license, Artist agrees that all releases under Agreement 
 
 
 28. Enforcement
-As the copyright holder, Company has exclusive authority to enforce the copyright. 
+As the exclusive licensee, Company has exclusive authority to enforce the copyright. 
 
 
 To the extent there is a trademark issue, Company is unable to provide legal services, but can help Artist find representation.
@@ -286,8 +288,11 @@ This Agreement expresses the complete understanding of the parties with respect 
 30. Additional Definitions
 To the extent definitions in the document conflict with Section 30, Section 30 is controlling.
 Commercial Release: Music that will be for pay download.
+
 Company: blocGLOBAL, LLC
+
 Full Length: Generally, this will be multiple-song LP format. However, in certain genres where it is the norm for single tracks to be long enough for an LP release (trance, etc.), blocSonic will use the industry standard. Further, in the event that Artist prefers the EP or single format, blocSonic will consider 9 individual tracks
+
 Remix: Any musical derivative work, including covers. In some instances, remixes and covers will be mentioned separately. This is meant as a point of clarity, not to differentiate the two.
 
 
