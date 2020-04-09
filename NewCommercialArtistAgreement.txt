@@ -32,7 +32,7 @@ While there is no charge or recoupment for mastering, having Company master soun
 
 
 3. Grant of Rights - General
-Company will be the exclusive licensee of all rights to the Master Recordings delivered by Artist to Company prior to entry into this Agreement and each Master made pursuant this Agreement or during its term, from the inception of its recording, will be considered a “work made for hire” for Label; if, for any reason, any such Master fails to qualify in any jurisdiction as a work made for hire, then all right, title, and interest in and to the copyright to any such Master shall be deemed transferred, on an exclusive basis, in perpetuity, to Label by this Agreement. All Master Recordings will last for a term of _________ years from the date of receipt of each Master Recording (the “Ownership Period”). After the Ownership Period, all rights granted under this Agreement will revert to Artist if applicable. Under this Agreement, a “Controlled Composition” [c]is defined as a Musical Composition written, in whole or in part, by Artist, or a Musical Composition either owned or controlled by Artist
+Company will be the exclusive licensee of all rights to the Master Recordings delivered by Artist pursuant this Agreement. All Master Recordings will last for a term of _________ years from the date of receipt of each Master Recording (the “Ownership Period”). After the Ownership Period, all rights granted under this Agreement will revert to Artist if applicable. Under this Agreement, a “Controlled Composition” is defined as a Musical Composition written, in whole or in part, by Artist, or a Musical Composition either owned or controlled by Artist
 
 
 Company engages Artist’s exclusive personal services only in regard to the production of Records under this Agreement. Artist grants to Company the following rights to the Master Recording, Musical Compositions, and Controlled Compositions:
@@ -65,10 +65,10 @@ Company engages Artist’s exclusive personal services only in regard to the pro
 3(I) The exclusive right of Company to register as owner of the publishers’ share of any Musical Compositions in order to receive publishing royalties of any composition/song - whether a Controlled Composition or not -  that is contained on each Master Recording under this Agreement.
 
 
-3(J) Artist grants to Company a first mechanical license with respect to all Controlled Compositions. Each Master Recording will be considered a work made for hire for the Company from the inception of recording. [d]
+3(J) Artist grants to Company a first mechanical license with respect to all Controlled Compositions. 
 
 
-3(K) Artist grants to Company the following rights to any Collaborative Musical Compositions if applicable:
+3(K) Artist grants to Company the following rights to any Collaborative Musical Compositions if applicable.
 
 
 3(L) Company will register as owner of the publishers’ share of each Musical Composition, either a Collaborative Controlled Composition or not, contained on each Master Recording under this Agreement.
