@@ -102,9 +102,9 @@ This includes the right to make merchandise related to the recording listed in S
 
 
 7. Miscellaneous Duties of Artist
-1. Artist will render musical performances for the Company, to the best of Artist’s ability, for the purpose of creating Master Recordings under this Agreement. 
-2. The Artist will cooperate with the Company in making photographs and preparing other materials for use in advertising, marketing, promoting, and publicizing the Artist and the Records. While snippets or clips may be required that do not conform to Creative Commons attribution guidelines, no new performance, either live or recorded, will be required for this provision.
-3. The Artist will procure the appropriate permission, clearance, or release from any person or union who renders services in the production of the Master Recording, if applicable.
+A. Artist will render musical performances for the Company, to the best of Artist’s ability, for the purpose of creating Master Recordings under this Agreement. 
+B. The Artist will cooperate with the Company in making photographs and preparing other materials for use in advertising, marketing, promoting, and publicizing the Artist and the Records. While snippets or clips may be required that do not conform to Creative Commons attribution guidelines, no new performance, either live or recorded, will be required for this provision.
+C. The Artist will procure the appropriate permission, clearance, or release from any person or union who renders services in the production of the Master Recording, if applicable.
 
 
 8. Distribution Time-table
